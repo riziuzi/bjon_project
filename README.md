@@ -1,3 +1,7 @@
+Using Helmet to optimize SEO:
+
+https://github.com/riziuzi/bjon_project/assets/98612321/c6cf8ba6-08db-4acf-8940-408a2751af90
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
